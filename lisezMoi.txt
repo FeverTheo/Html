@@ -1,4 +1,4 @@
-Lisez d'abord tout le document puis suivez les étapes dans l'ordre indiqué.
+Bienvenue dans l'aventure
 Enjoy
 
 ===>Vous avez pour objectif de:
@@ -64,3 +64,10 @@ Rédigez vos compétences comportementales (dans une liste à puce(3 minimum))
 Créez un tableau
 Insérez vos connaisances de languages informatiques et logiciel
 Si vous avez déjà utilisé ce language et/ou logiciel ajoutez un "x" à sa droite
+
+Connecte toi sur github
+Créé un nouveau référentiel privé
+Nom du référentiel: "ton nom et prénom"
+Upload ton travail
+Quand ton travail est uploadé, vas dans réglages (gérer l'accès( ajoute moi en collaborateur)) (AymericParis0)
+..
