@@ -1,3 +1,7 @@
+Faction Front: Dans ton footer de chaques pages:ajoute une icone (64x64) redirigeant vers ton profil linkendin
+Faction Back: None
+Faction Designer: Ajoute ton CV à jour
+
 Bienvenue dans l'aventure
 
 ===>Vous avez pour objectif de:
