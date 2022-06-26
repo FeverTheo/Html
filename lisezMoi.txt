@@ -1,5 +1,4 @@
 Bienvenue dans l'aventure
-Enjoy
 
 ===>Vous avez pour objectif de:
     - créer 4 pages html:
@@ -8,20 +7,23 @@ Enjoy
         * une page sur vos rêves d'apprenant (nom du fichier: myDreams.html)
         * une page qui illustre vos différentes passions (nom du fichier: myPassions.html)
 
-Vos fichiers doivent être un dossier "img"
- 
-La balise header doit contenir:
-
+Chaques pages contient une balise <header>
+header contient:
 -l'intitulé de votre futur métier
 -une phrase d'accroche
 -un menu de navigation pour rediriger vers vos autres pages (lien)
-==> conserver le même header sur toutes les pages
 
-Insérez votre copyright suivis de votre Nom Prénom 
+Chaques pages contient une balise <footer>
+footer contient:
+Votre copyright suivis de votre Nom Prénom 
 ==> conserver le même footer sur toutes les pages
 
-Page index:
 
+
+
+
+
+Page index:
 La balise section doit contenir:
 
 "Mon profil" dans un titre de niveau 1
@@ -65,9 +67,4 @@ Créez un tableau
 Insérez vos connaisances de languages informatiques et logiciel
 Si vous avez déjà utilisé ce language et/ou logiciel ajoutez un "x" à sa droite
 
-Connecte toi sur github
-Créé un nouveau référentiel privé
-Nom du référentiel: "ton nom et prénom"
-Upload ton travail
-Quand ton travail est uploadé, vas dans réglages (gérer l'accès( ajoute moi en collaborateur)) (AymericParis0)
 ..
