@@ -1,10 +1,14 @@
+Reactopia est née de ses cendres, notre monde était si ennuyant, si fade avec toute ses couleurs,
+Maintenant, c'est à nous de façonner l'avenir, mais comme tu peux le constater
+je ne suis que le conteur, quand je disais nous,je voulais dire "tu",bien évidemment.   
+Bienvenue dans l'aventure
+
 Faction Front: Dans ton footer de chaques pages:ajoute une icone (64x64) redirigeant vers ton profil linkendin
 Faction Back: None
 Faction Designer: Ajoute ton CV à jour
 
-Bienvenue dans l'aventure
 
-===>Vous avez pour objectif de:
+===>Tu as pour objectif de:
     - créer 4 pages html:
         * une page d'accueil (nom du fichier: index.html)
         * une page sur vos compétences et connaissances (nom du fichier: aboutMe.html)
