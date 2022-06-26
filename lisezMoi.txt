@@ -29,7 +29,7 @@ Page index:
 La balise section doit contenir:
 
 "Mon profil" dans un titre de niveau 1
-Insérez une photo de vous (dimensions 300x300(lors du clic sur l'image celle-ci d oit s'afficher en 600x600))
+Insérez une photo de vous (dimensions 300x300(lors du clic sur l'image celle-ci doit s'afficher en 600x600))
 Rédigez votre parcours jusqu'à aujourd'hui (dans un paragraphe (500 caractères minimum)
 
 
